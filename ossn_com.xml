@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>US format brithdates</name>
+    <id>USBirthdate</id>
+    <author>Core Team</author>
+    <description>Change birthdate format to mm/dd/yy.</description>
+    <license>Open Source Social Network License 4.0</license>
+    <author_url>https://www.opensource-socialnetwork.net/</author_url>
+    <license_url>http://www.opensource-socialnetwork.org/licence/</license_url>
+    <version>1.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>5.5</version>
+	</requires>
+</component>
