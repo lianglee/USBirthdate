@@ -3,10 +3,10 @@
  * Open Source Social Network
  *
  * @package   Open Source Social Network
- * @author    Open Social Website Core Team <info@informatikon.com>
- * @copyright 2014 iNFORMATIKON TECHNOLOGIES
- * @license   General Public Licence http://www.opensource-socialnetwork.org/licence
- * @link      http://www.opensource-socialnetwork.org
+ * @author    Open Social Website Core Team <info@openteknik.com>
+ * @copyright (C) OpenTeknik LLC
+ * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @link      https://www.opensource-socialnetwork.org/
  */
 function us_birthdate_format(){
 		ossn_extend_view('css/ossn.default', 'usbirthdate/css');

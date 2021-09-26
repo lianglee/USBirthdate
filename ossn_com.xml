@@ -7,9 +7,9 @@
     <license>Open Source Social Network License 4.0</license>
     <author_url>https://www.opensource-socialnetwork.net/</author_url>
     <license_url>http://www.opensource-socialnetwork.org/licence/</license_url>
-    <version>1.1</version>
+    <version>1.2</version>
 	<requires>
 		<type>ossn_version</type>
-		<version>5.5</version>
+		<version>6.0</version>
 	</requires>
 </component>
